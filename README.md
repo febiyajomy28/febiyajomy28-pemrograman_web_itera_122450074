@@ -1,6 +1,5 @@
 # **Dashboard Jadwal Kuliah Sederhana**
-
-![cover](img/Cover.png)
+![alt text](https://github.com/febiyajomy28/febiyajomy28-pemrograman_web_itera_122450074/blob/master/gambar/Screenshot%20(297).png?raw=true)
 
 # **Introduction Aplikasi Jadwal Kuliah**
 
