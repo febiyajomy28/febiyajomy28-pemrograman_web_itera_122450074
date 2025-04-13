@@ -1,5 +1,4 @@
 # **Dashboard Jadwal Kuliah Sederhana**
-![alt text](https://github.com/febiyajomy28/febiyajomy28-pemrograman_web_itera_122450074/blob/master/gambar/Screenshot%20(297).png?raw=true)
 
 # **Introduction Aplikasi Jadwal Kuliah**
 
@@ -26,12 +25,16 @@ Terdapat tiga tab utama untuk berpindah antara tampilan:
 ## Fitur 
 
 -Jadwal Hari Ini
+![alt text](https://github.com/febiyajomy28/febiyajomy28-pemrograman_web_itera_122450074/blob/master/gambar/Screenshot%20(296).png?raw=true)
 Fitur ini menampilkan daftar kelas yang dijadwalkan untuk hari ini. Jika tidak ada jadwal yang tersedia, akan muncul pesan "Tidak ada jadwal kuliah hari ini." untuk memberi tahu pengguna. Selain itu, kelas yang sedang berlangsung saat ini akan ditandai dengan label khusus agar lebih mudah dikenali.
-![picture 0](/gambar/Screenshot (296).png)  
+
 
 -Kalender Mingguan
+![alt text](https://github.com/febiyajomy28/febiyajomy28-pemrograman_web_itera_122450074/blob/master/gambar/Screenshot%20(295).png?raw=true)
 Fitur ini menampilkan jadwal dalam bentuk grid selama 7 hari, dari Senin hingga Minggu. Pengguna dapat menggunakan fitur filter mata kuliah untuk memilih dan menampilkan jadwal berdasarkan mata kuliah tertentu, dengan contoh tampilan seperti "Filter Mata Kuliah: [Semua Mata Kuliah ~]". Setiap hari akan menampilkan informasi berupa waktu kelas (misalnya 10:00 - 12:00), nama mata kuliah (seperti Basis Data), dan ruangan (seperti Ruang 205). Jika pada suatu hari tidak ada jadwal yang tersedia, akan ditampilkan pesan "Tidak ada jadwal" untuk memperjelas kepada pengguna.
+
 -Kelola Jadwal (CRUD)
+![alt text](https://github.com/febiyajomy28/febiyajomy28-pemrograman_web_itera_122450074/blob/master/gambar/Screenshot%20(297).png?raw=true)
 Fitur ini menyediakan form input untuk menambahkan jadwal baru dengan mengisi nama mata kuliah, hari, waktu, ruangan, dan dosen. Setiap jadwal yang sudah ada dapat diedit melalui tombol "Edit" untuk mengubah detailnya, atau dihapus menggunakan tombol "Hapus" yang dilengkapi dengan konfirmasi agar tidak terhapus secara tidak sengaja. Daftar jadwal ditampilkan secara terpisah per hari, mulai dari Senin hingga Minggu. Setiap entri dalam daftar menampilkan informasi penting seperti nama mata kuliah (misalnya Pemrograman Web), waktu pelaksanaan (contohnya 11:26 - 15:24), dan lokasi ruangan (seperti Ruang 301).
 
 
